@@ -1,0 +1,8 @@
+Proprietary License - CyberDudeBivash Pvt Ltd
+CYBERDUDEBIVASH MONGODB DETECTOR TOOL v2026.1
+Copyright © 2026 CyberDudeBivash Pvt Ltd. All rights reserved.
+This software is proprietary and confidential. Unauthorized copying, distribution, modification, or reverse engineering is strictly prohibited.
+Personal, evaluation, and internal security testing use of the free version is permitted. Commercial use, redistribution, or integration requires a paid license.
+For licensing, enterprise support, or custom versions:
+https://www.cyberdudebivash.com/apps-products/
+Contact: Via official website contact form.
